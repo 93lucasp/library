@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.content {
+	background-color: #fff;
+	text-align: center;
+}
+
+.nextDiv {
+	background-color: #fff;
+	color: #000;
+	height: 500px;
+}
+
+.parallax-bg {
+	padding: 300px 0;
+	background-image: url(background.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+	text-align: center;
+	color: #fff;
+	font-size: 4em;
+	background-repeat: no-repeat;
+}
